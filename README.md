@@ -1,7 +1,7 @@
 # IEDS_Planning
  Integrated Energy Distribution System (IEDS) Planning method, include a matlab version and a Python version 
 # Must-include package
- - For IEDS_planning.ipynb: PuLP see (https://coin-or.github.io/pulp/)
+ - For IEDS_planning.ipynb: PuLP see (https://coin-or.github.io/pulp/) (Python 3.7)
  - For IEDS_planning.m: YALMIP see (https://yalmip.github.io/)
  - Both files are calling gurobi to solve the problem, but could call other solvers as well. (see what solvers they support in above link).
 # Some unknown issue
